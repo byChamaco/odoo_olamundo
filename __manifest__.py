@@ -3,7 +3,7 @@
     'name': "odoo_olamundo",
 
     'summary': """
-        Proxecto inicial ola mundo """,
+        Proxecto inicial Ola mundo """,
 
     'description': """
         Proxecto inicial en Odoo
